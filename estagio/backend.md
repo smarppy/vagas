@@ -53,4 +53,4 @@ Nível: Estágio
 
 ## Sentiu que essa é sua oportunidade?
 
-> _Para de candidatar, envie seu currículo para [pessoas@smarppy.com](mailto:pessoas@smarppy.com) com o título da vaga desejada no *assunto*._
+> _Para se candidatar, envie seu currículo para [pessoas@smarppy.com](mailto:pessoas@smarppy.com) com o título da vaga desejada no *assunto*._

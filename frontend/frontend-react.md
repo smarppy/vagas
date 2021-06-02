@@ -14,7 +14,7 @@ Nível: Junior ou Pleno
 
 ## Requisitos obrigatórios:
 
-- Ensino superior cursando ou concluído em áreas relacionadas à tecnologia
+- Ensino superior cursando ou concluído em áreas relacionadas à tecnologia (ou experiência comprovada)
 - Ter curiosidade e gostar de aprender
 - Boa comunicação e trabalho em equipe
 - Ter Energia e desejo de fazer a diferença

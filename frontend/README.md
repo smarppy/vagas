@@ -1,5 +1,5 @@
 # Vagas para desenvolvedor frontend
 
-- Vagas para [React e React Native(2)](./backend-java.md)
+- Vagas para [React e React Native (2)](./frontend-react.md)
 
 > _Para se candidatar, envie seu currículo para [pessoas@smarppy.com](mailto:pessoas@smarppy.com) com o título da vaga desejada no *assunto*._

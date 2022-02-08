@@ -43,9 +43,10 @@ Nível: Junior, Pleno ou Senior
 
 - Desconto em plano de saúde (UNIMED)
 - Salário compatível com a qualificação do candidato
+- Benefício flexível (alimentação, refeição, combustível, livros, academia, etc)
 - Ambiente agradável e descontraído
 - Aqui você terá a oportunidade de aprender coisas novas e crescer na carreira
-- Projetos inovadores e de alta complexidade, como apps para bancos digitais e agricultura de precisão
+- Atuar em projetos inovadores e de alta complexidade, como apps para bancos digitais e agricultura de precisão
 
 ## Sentiu que essa é sua oportunidade?
 

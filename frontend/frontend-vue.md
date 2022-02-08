@@ -1,14 +1,14 @@
-# Vaga para PROGRAMADOR BACKEND NODE (CLT, presencial ou remoto)
+# Vaga para PROGRAMADOR FRONTEND VUE JS (CLT, presencial ou remoto)
 
 Empresa: Smarppy Consultoria e Desenvolvimento de Software
 
 Cidade: Campo Mourão - PR
 
-Nível: Junior, Pleno ou Sênior
+Nível: Junior ou Pleno
 
 ## Responsabilidades:
 
-- Atuar na construção e evolução de APIs para sistemas web e mobile utilizando ecossistema Node JS
+- Atuar na construção e evolução de sistemas web utilizando ecossistema JavaScript com Vue JS
 - Participar de cerimônias de gestão diárias e mensais 
 - Auxiliar na coleta e análise de requisitos junto aos usuários
 
@@ -23,21 +23,17 @@ Nível: Junior, Pleno ou Sênior
 ## Tecnologias utilizadas:
 
 - Domínio do protocolo HTTP
-- Conhecimento do padrão RESTful
-- Node JS e Express JS
-- Conhecimento de SQL (MySQL)
+- Conhecimento de Vue JS
+- Conhecimento de CSS
 - Conhecimento de ecossistema Node e NPM
 - Conhecimento de gerenciamento de versões GIT
 
 ## Será um diferencial se tiver: 
 
-- GraphQL
-- TypeScript
-- Ecossistema Docker e Docker Swarm
-- Ecossistema Linux
-- HTML e CSS
-- ORMs (bookshelf, TypeORM, Sequelize)
-- Migrações e versionamento de banco de dados
+- Gerenciamento de estado com VueX 
+- SASS e/ou LESS
+- React JS (para novos projetos)
+- Facilidade em criação de interfaces (UI/UX)
 - Experiência com revisão de códigos (Merge/Pull Requests)
 - Experiência em metodologias ágeis (Scrum, Kanban)
 - Experiência anterior na área

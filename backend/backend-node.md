@@ -4,7 +4,7 @@ Empresa: Smarppy Consultoria e Desenvolvimento de Software
 
 Cidade: Campo Mourão - PR
 
-Nível: Junior, Pleno ou Sênior
+Nível: Pleno ou Sênior
 
 ## Responsabilidades:
 
